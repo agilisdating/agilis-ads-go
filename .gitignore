@@ -1,0 +1,17 @@
+# Environment and secrets
+.env
+.env.*
+
+# Go
+*.test
+*.out
+coverage.*
+/vendor/
+go.work
+go.work.sum
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
