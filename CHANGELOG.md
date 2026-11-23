@@ -4,6 +4,8 @@ All notable changes to this module are listed here. Versions follow [Semantic Ve
 
 ## Unreleased
 
+## 0.1.0 (23 November 2026)
+
 ### Added
 
 - The client, with the API key from the caller or `AGILIS_API_KEY`, and options for the base URL, timeout, retries and HTTP client.
